@@ -1,0 +1,40 @@
+
+    body{
+      background:Salmon;
+      color:#FF7E7E;
+    }
+
+    main{
+      display: block;
+      margin:auto;
+      width: 500px;
+
+    }
+    /* I centered the main tag */
+    .center{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 130px;
+    }
+
+      body{
+        background:#DF91A7;
+        color:#9C157E;
+      }
+      h2{
+        background:
+        color:#DF91A7
+      }
+
+    body{
+      background:#AFEEEE;
+      color:PaleTurquoise;
+    }
+    .center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+  }
+  /* April helped edit my tags correctly */
