@@ -1,7 +1,7 @@
 
     body{
-      background:LightSalmon;
-      color:#FFC2C2;
+      background:#FFC2C2;
+   
     }
 
     main{
@@ -16,5 +16,16 @@
     margin-right: auto;
     margin-left: auto;
     width: 130px;
+    }
+body{
+      font-size:16px;
+      font-family:arial,helvetica,sans-serif
+      line-height:1.2
+    }
+    li{
+      line-height:1.2;
+    }
+    a{
+      color:black;
     }
   /* April helped edit my tags correctly */
