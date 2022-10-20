@@ -28,4 +28,11 @@ body{
     a{
       color:black;
     }
+    img{
+        max-width:100%;
+    }
+    .cover-art{
+        width:80%;
+    }
+
   /* April helped edit my tags correctly */
